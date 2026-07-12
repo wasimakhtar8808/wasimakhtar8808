@@ -1,41 +1,120 @@
-# Hi there! 👋
+<div align="center">
 
-I'm Mohd Waseem Akhtar, a passionate Flutter Developer dedicated to crafting exceptional mobile experiences.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=220&section=header&text=Mohd%20Waseem%20Akhtar&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Flutter%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-## About Me
+<a href="https://github.com/wasimakhtar8808">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Developer;Building+cross-platform+mobile+apps;GetX+%7C+Provider+%7C+Firebase;Always+shipping+something+new" alt="Typing SVG" />
+</a>
 
-- 👨‍💻 Skilled Flutter Developer with 2 years of hands-on experience.	
-- 🌱 Currently, I'm learning advanced Flutter techniques to stay updated with the latest trends.
-- 💼 I'm open to exciting opportunities and collaborations in the mobile app development space.
-- 📫 You can reach me at wasimakhtar8808@gmail.com for any inquiries or collaborations.
-- ⚡ Fun Fact: I love exploring new technologies and experimenting with different app ideas.
+<br/>
 
-## Projects
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=github&logoColor=black)
 
-- **Manikin Simulator Game**: An immersive medical training game utilizing Unity game engine and Bluetooth connectivity.
-- **Canteen Management**: Developed a tablet-responsive app for efficient canteen management using Flutter framework.
-- **Shopright**: Created a cross-platform shopping app with intuitive UI design and smooth performance.
-- **Employee Portal**: Designed an online platform for employee engagement and resource management.
-- **Era Student Portal**: Developed a mobile app for managing students' academic lives with features like course registration and grade tracking.
-- **Digi Doctor**: Built a telemedicine app for virtual healthcare consultations with React Native.
-- **Digi Doctor Connect**: Expanded Digi Doctor platform to include a network for healthcare providers and patient data integration.
-- **Alarm Buddy**: Developed a personalized alarm and reminder app for mobile devices.
+<img src="https://komarev.com/ghpvc/?username=wasimakhtar8808&color=7dd3fc&style=flat-square&label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/wasimakhtar8808?label=Followers&style=flat-square&color=7dd3fc" />
 
-## Skills
+</div>
 
-- Flutter framework and Dart programming language.
-- State management (GetX, Provider).
-- RESTful APIs, JSON data parsing, and Firebase services.
-- Android Studio.
-- Strong problem-solving and debugging abilities.
-- Version Control with Git/GitHub.
-- MS Office.
+<br/>
 
-## Languages
+## 👨‍💻 Who I Am
 
-- Urdu
-- Hindi
-- English
+```typescript
+const wasimakhtar8808 = {
+  title: "Flutter Developer",
+  experience: "2 years hands-on with Flutter",
+  stack: {
+    languages: ["Dart"],
+    frameworks: ["Flutter", "React Native"],
+    stateManagement: ["GetX", "Provider"],
+    backend: ["Firebase", "RESTful APIs", "JSON"],
+    tools: ["Android Studio", "Git", "GitHub", "MS Office"],
+  },
+  launchedProjects: [
+    "Manikin Simulator Game",
+    "Canteen Management",
+    "Shopright",
+    "Employee Portal",
+    "Era Student Portal",
+    "Digi Doctor",
+    "Digi Doctor Connect",
+    "Alarm Buddy",
+  ],
+  currentlyLearning: "Advanced Flutter techniques",
+  languagesSpoken: ["Urdu", "Hindi", "English"],
+  status: "Building exceptional mobile experiences 📱",
+  openTo: ["Opportunities", "Collaborations"],
+};
+```
 
-<!-- Feel free to reach out for any inquiries or collaborations! -->
+<br/>
 
+## 🚀 Featured Projects
+
+### 📱 Digi Doctor
+> Telemedicine app for virtual healthcare consultations, built with React Native.
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=wasimakhtar8808&repo=digi-doctor&theme=dark&border_color=7dd3fc&title_color=7dd3fc" />
+
+| Layer          | Technology     |
+|----------------|----------------|
+| Framework      | React Native   |
+| Domain         | Telemedicine   |
+| Data           | REST APIs      |
+
+**[🔗 Live](#)** &nbsp;|&nbsp; **[💻 Code](https://github.com/wasimakhtar8808/digi-doctor)**
+
+---
+
+### 🛒 Shopright
+> Cross-platform shopping app with intuitive UI design and smooth performance.
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=wasimakhtar8808&repo=shopright&theme=dark&border_color=7dd3fc&title_color=7dd3fc" />
+
+| Layer          | Technology     |
+|----------------|----------------|
+| Framework      | Flutter        |
+| State Mgmt     | GetX / Provider|
+| Backend        | Firebase       |
+
+**[🔗 Live](#)** &nbsp;|&nbsp; **[💻 Code](https://github.com/wasimakhtar8808/shopright)**
+
+<br/>
+
+## 🛠️ Tech Stack
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=dart" />
+
+**Frontend / Mobile**
+<br/>
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio" />
+
+**Backend / Data**
+<br/>
+<img src="https://skillicons.dev/icons?i=firebase" />
+
+**Dev Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github" />
+
+<br/>
+
+## 📊 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wasimakhtar8808&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+<br/>
+
+## 🤝 Connect With Me
+
+<a href="mailto:wasimakhtar8808@gmail.com">
+  <img src="https://img.shields.io/badge/Email-wasimakhtar8808%40gmail.com-7dd3fc?style=for-the-badge&logo=gmail&logoColor=black" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0f172a&height=120&section=footer" width="100%"/>
+
+</div>
